@@ -1,0 +1,94 @@
+body {
+  background-image: linear-gradient(145deg, #218AB9, #26A280);
+}
+
+.envelopeLogo {
+  background-color: rgba(255, 255, 255, 0.0);
+  width: 50%;
+  margin: auto;
+  padding: 15px;
+  /* opacity: 0.8;*/
+}
+
+.imersao {
+  background-color:#05407A;
+  color: white;
+  width: 70%;
+  padding: 5px;
+  padding-bottom: 2px;
+  margin: auto;
+  text-align: center;
+  float: center;
+  margin-top: 0px;
+  margin-bottom: -15px;
+  position: relative;
+  z-index: 1;
+}
+
+.envelopeTopo {
+  background-color: #91CAD1;
+  color: #2C3D4F;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 6px;
+  padding: 15px;
+  padding-bottom: 5px;
+  padding-top: 25px;
+  text-align: center;
+}
+
+.cadastro {
+  background-color: #05407A;
+  color: white;
+  width: 75%;
+  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  margin: auto;
+  text-align: center;
+  float: center;
+  margin-top: 40px;
+  margin-bottom: -15px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.envelopeForm {
+  background-color:#91CAD1;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 100px;
+  color:#2C3D4F;
+  border-radius: 6px;
+  padding: 15px;
+}
+
+.envelopeInforma {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 5px;
+  border-radius: 6px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.botaoEnviar, .botaoDownload {
+  width: 80%;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.QRcode, .logo {
+  max-width: 80%;
+  height: auto;
+  margin: auto;
+  object-fit: cover;
+  overflow: hidden;
+}
